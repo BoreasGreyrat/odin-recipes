@@ -1,0 +1,1 @@
+In this project I created a basic website to practice HTML and git. I expect the page to work properly, showing improvements in the aforementioned technologies, while sharing some delicious recipes.
